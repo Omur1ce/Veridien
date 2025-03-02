@@ -58,7 +58,7 @@ train_transforms = A.Compose([
     A.VerticalFlip(p=0.5),
     A.Rotate(45),
     # A.RandomCrop(224, 224),
-    A.Resize(height=224, width=224), # maybe this is better idk test it https://explore.albumentations.ai/ more augmentations
+    A.Resize(height=224, width=224), # maybe this is better
     #ToTensorV2(),
 ])
 

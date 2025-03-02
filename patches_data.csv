@@ -1,0 +1,11 @@
+lidar_file,mask_file,topleft,width
+Lidar_Tiffs\DSM_TQ1565_P_12756_20230116_20230116.tif,refined_mask_new.tif,"(6, 247)",224
+Lidar_Tiffs\DSM_TQ1565_P_12756_20230116_20230116.tif,refined_mask_new.tif,"(170, 247)",224
+Lidar_Tiffs\DSM_TQ1570_P_12756_20230116_20230116.tif,refined_mask_new.tif,"(174, 7)",224
+Lidar_Tiffs\DSM_TQ1570_P_12756_20230116_20230116.tif,refined_mask_new.tif,"(124, 126)",224
+Lidar_Tiffs\DSM_TQ1575_P_12757_20230109_20230315.tif,refined_mask_new.tif,"(192, 224)",224
+Lidar_Tiffs\DSM_TQ1575_P_12757_20230109_20230315.tif,refined_mask_new.tif,"(246, 26)",224
+Lidar_Tiffs\DSM_TQ1575_P_12757_20230109_20230315_downsampled.tif,refined_mask_new.tif,"(31, 231)",224
+Lidar_Tiffs\DSM_TQ1575_P_12757_20230109_20230315_downsampled.tif,refined_mask_new.tif,"(179, 195)",224
+Lidar_Tiffs\DSM_TQ1575_P_12757_20230109_20230315_downsampled_hillshade.tif,refined_mask_new.tif,"(126, 48)",224
+Lidar_Tiffs\DSM_TQ1575_P_12757_20230109_20230315_downsampled_hillshade.tif,refined_mask_new.tif,"(199, 53)",224
